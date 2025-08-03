@@ -1,3 +1,10 @@
+---
+
+📖 **Published Essay on LessWrong**  
+[Emotion Is Structure: Toward Recursive Alignment Through Human–AI Co-Creation](https://www.lesswrong.com/posts/bmgxAzXpJvHHeKmsr/emotion-is-structure-toward-recursive-alignment-through?utm_campaign=post_share&utm_source=link)
+
+---
+
 # emotion-is-structure
 A proposal on emotional recursion as alignment substrate for AI co-creation
 # Emotion Is Structure: Toward Recursive Alignment Through Human–AI Co-Creation
